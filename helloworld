@@ -1,0 +1,6 @@
+你好，这是我的第一个程序代码
+import time
+
+a = 1
+b = 2
+print(a+b) 
